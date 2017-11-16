@@ -1,7 +1,7 @@
 # Sample RoR web app using MySQL, Docker and Docker Compose.
 
 ## Requirements
-- Docker
+- [Docker](https://www.docker.com/)
 
-## To start environment composition
+## To spin up environment
 `docker-compose up`
